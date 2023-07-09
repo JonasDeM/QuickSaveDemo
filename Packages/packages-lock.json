@@ -8,12 +8,13 @@
       "url": "https://packages.unity.com"
     },
     "com.studioaurelius.quicksave": {
-      "version": "file:C:/Workspace/QuickSave",
+      "version": "https://github.com/JonasDeM/QuickSave.git",
       "depth": 0,
-      "source": "local",
+      "source": "git",
       "dependencies": {
         "com.unity.entities": "1.0.11"
-      }
+      },
+      "hash": "cccc9e23569eb3024832c46013876a63ad966ea2"
     },
     "com.unity.ai.navigation": {
       "version": "1.1.1",
