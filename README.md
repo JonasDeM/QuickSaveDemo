@@ -13,6 +13,10 @@ Check out the [QuickSave](https://github.com/JonasDeM/QuickSave) repo if you hav
   * Loading, Unloading & Replay: On screen clickable UI
   * Camera: Mouse Left Click & Drag + WASD for movement
   * Toggle Extended UI: Tab
+  * Disable object: Right Click
+  * Spawn chrome balls: Space
 * Look at & step into the code to get to know how QuickSave works or how it's used.
 * Use the BuildSettings window to make a build
 * Questions? Feel free to contact me
+  
+![demo](https://github.com/JonasDeM/QuickSaveDemo/assets/23634827/6563b19f-e799-412a-9ca5-51f76ab688fc)
